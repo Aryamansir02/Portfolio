@@ -79,11 +79,11 @@
     font-size: 1.5rem;
     font-family: 'Bree Serif', serif;
 }
-#services{
+#about{
     margin: 34px;
     display: flex;
 }
-#services .box{ 
+#about .box{ 
     border: 2px solid;
     padding: 34px;
     margin: 2px 55px;
@@ -91,32 +91,32 @@
     background: white;
     margin-bottom: 20px;
 }
-#client-section{ 
+#skills-section{ 
     position: relative;
 }
-#client-section2{ 
+#skills-section2{ 
     position: relative;
 }
 
-#clients{
+#skills{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
 }
-#clients2{
+#skills2{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
 }
-.client-item{
+.skills-item{
     padding: 34px;
 }
-#clients img{
+#skills img{
     height: 124px;
 }
-#clients2 img{
+#skills img{
     height: 124px;
 }
 .h-primary{
