@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 #navbar{
     display: flex;
@@ -70,7 +71,7 @@
 #home h1{
     color:white;
     text-align: center;
-    font-family: 'Bree Serif', serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 #home p{
@@ -127,9 +128,10 @@
     height: 124px;
 }
 .h-primary{
-    font-family: 'Bree Serif', serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 3.8rem;
     padding: 36px;
+    text-align: center;
 }
 
 .h-secondary{
@@ -140,5 +142,16 @@
 .center{
     text-align: center;
 }
+#projects{
+    justify-content: center;
+}
+#ss{
+    height:100px;
+    margin:auto;
+}
+.project-text{
+    text-align: center;
+}
+
 
 
