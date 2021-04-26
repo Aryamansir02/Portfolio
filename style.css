@@ -81,7 +81,7 @@
     font-family: 'Bree Serif', serif;
 }
 #about-container{
-    min-height:30em;
+    min-height:35em;
 }
 #about{
     margin: 34px;
@@ -143,11 +143,13 @@
     text-align: center;
 }
 #projects{
-    justify-content: center;
+    text-align: center;
 }
-#ss{
-    height:100px;
-    margin:auto;
+#ssi{
+    height: 20em;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .project-text{
     text-align: center;
