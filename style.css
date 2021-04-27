@@ -67,6 +67,7 @@
     width: 100%;
     z-index: -1;
     opacity:1;
+    background-attachment: fixed
 }
 #home h1{
     color:white;
@@ -154,6 +155,18 @@
 .project-text{
     text-align: center;
 }
-
+#contacts{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: wrap;
+}
+i{
+    display: inline-block;
+    font-size: 5em;
+    padding: 0.1em;
+    margin: 0.2em 1em;
+}
 
 
